@@ -11,7 +11,7 @@
 
 ## About
 
-I'm a student building a foundation in software development, with a particular focus on desktop application architecture and software localization. I'm interested in the engineering work that makes applications usable across languages and regions — from UI architecture to text handling and internationalization pipelines.
+I'm a Arabic / English / French Localization & Translation student building a foundation in software development, with a particular focus on desktop application architecture and software localization. I'm interested in the engineering work that makes applications usable across languages and regions — from UI architecture to text handling and internationalization pipelines.
 
 ## Interests
 

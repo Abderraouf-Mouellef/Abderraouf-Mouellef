@@ -41,4 +41,3 @@ I'm a Arabic / English / French Localization & Translation student building a fo
   <a href="mailto:abderraoufmouellef@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- Replace the "#" links above with your actual LinkedIn and email -->
